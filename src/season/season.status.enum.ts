@@ -1,0 +1,6 @@
+export enum SeasonStatus {
+    KICKOFF = 'KICKOFF',
+    IN_PROGRESS = 'IN_PROGRESS',
+    HALFSEASON = 'HALFSEASON',
+    COMPLETED = 'COMPLETED',
+}

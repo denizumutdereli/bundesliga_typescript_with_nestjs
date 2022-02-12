@@ -1,0 +1,257 @@
+{
+  "id": 1,
+  "name": "Bundesliga",
+  "yearStart": 2022,
+  "yearEnd": 2023,
+  "numberOfTeams": "30",
+  "teams": [
+    {
+      "id": "8a4b546a-25dc-41d6-836e-86c1d8ec7bdc",
+      "name": " Nans Lads",
+      "clubColors": "Yelow White Orange",
+      "crestUrl": "",
+      "tla": "NAN",
+      "venue": " Nans Lads Park"
+    },
+    {
+      "id": "502cfdd6-9df1-496e-b532-b80701292ea5",
+      "name": "Ninja Bros",
+      "clubColors": "Orange",
+      "crestUrl": "",
+      "tla": "NIN",
+      "venue": "Ninja Bros Stadium"
+    },
+    {
+      "id": "d4e25833-1140-4a23-9620-9e29739c4da4",
+      "name": "Pro Performers Bee",
+      "clubColors": "White Red Orange",
+      "crestUrl": "",
+      "tla": "PRO",
+      "venue": "Pro Performers Bee Park"
+    },
+    {
+      "id": "edf48e0c-c5b7-44ff-b111-def3c89493bd",
+      "name": "Charging Hulks",
+      "clubColors": "Blue Red Yelow",
+      "crestUrl": "",
+      "tla": "CHA",
+      "venue": "Charging Hulks Park"
+    },
+    {
+      "id": "f08a4c39-a80a-4382-a5f5-25273aec2257",
+      "name": "Ninja Bros Koala Innocent",
+      "clubColors": "Green Blue",
+      "crestUrl": "",
+      "tla": "NIN",
+      "venue": "Ninja Bros Koala Innocent Arena"
+    },
+    {
+      "id": "b9e06b73-e83c-4db5-b9e9-8ec3ca6197f7",
+      "name": "Big Shots",
+      "clubColors": "Yelow",
+      "crestUrl": "",
+      "tla": "BIG",
+      "venue": "Big Shots Stadium"
+    },
+    {
+      "id": "93a7f1a4-653a-4fee-90ca-a851ca301e7b",
+      "name": "1903 Wolf",
+      "clubColors": "Black Orange Red",
+      "crestUrl": "",
+      "tla": "WOL",
+      "venue": "1903 Wolf Park"
+    },
+    {
+      "id": "6cbdab02-c706-48b9-a890-95459f3d6420",
+      "name": "Outliers Leech",
+      "clubColors": "Gray White Yelow",
+      "crestUrl": "",
+      "tla": "OUT",
+      "venue": "Outliers Leech Park"
+    },
+    {
+      "id": "03250ddc-916e-4581-a9c6-cd253e035b16",
+      "name": "Hawkeye Hornets Basilisk",
+      "clubColors": "Orange Yelow",
+      "crestUrl": "",
+      "tla": "HAW",
+      "venue": "Hawkeye Hornets Basilisk Arena"
+    },
+    {
+      "id": "1883bedb-8f9d-4d03-97cb-da51fff8a4cc",
+      "name": "Bulletproof",
+      "clubColors": "Orange Green Red",
+      "crestUrl": "",
+      "tla": "BUL",
+      "venue": "Bulletproof Park"
+    },
+    {
+      "id": "ad0c144c-4a17-495d-8a16-83220c5ef8a8",
+      "name": "Crew X Camel Cool",
+      "clubColors": "Green Orange",
+      "crestUrl": "",
+      "tla": "CRE",
+      "venue": "Crew X Camel Cool Arena"
+    },
+    {
+      "id": "c6acc83f-1993-4577-801b-a43a33c0636f",
+      "name": "Mister Maniacs Guineafowl",
+      "clubColors": "Green Yelow",
+      "crestUrl": "",
+      "tla": "MIS",
+      "venue": "Mister Maniacs Guineafowl Arena"
+    },
+    {
+      "id": "767f62df-5367-4dc3-a83b-9fd534d730f8",
+      "name": "Tigers Wildfowl Thundering",
+      "clubColors": "Yelow",
+      "crestUrl": "",
+      "tla": "TIG",
+      "venue": "Tigers Wildfowl Thundering Stadium"
+    },
+    {
+      "id": "4117ad43-b193-4eac-8a37-6a5d6f7a248f",
+      "name": "Hustlers Crow Poised",
+      "clubColors": "Red",
+      "crestUrl": "",
+      "tla": "HUS",
+      "venue": "Hustlers Crow Poised Stadium"
+    },
+    {
+      "id": "465ff5d1-732f-4b49-bf7e-045d982d6b11",
+      "name": "No Caveat Cavaliers Quail Stale",
+      "clubColors": "White Red Green",
+      "crestUrl": "",
+      "tla": "NO ",
+      "venue": "No Caveat Cavaliers Quail Stale Park"
+    },
+    {
+      "id": "5f259153-af34-421c-a9dc-11b48a74b58f",
+      "name": "Bulletproof",
+      "clubColors": "Blue Red White",
+      "crestUrl": "",
+      "tla": "BUL",
+      "venue": "Bulletproof Park"
+    },
+    {
+      "id": "e5774eb1-2811-4e87-bdab-590c62ae1aac",
+      "name": "Pro Performers",
+      "clubColors": "Black",
+      "crestUrl": "",
+      "tla": "PRO",
+      "venue": "Pro Performers Stadium"
+    },
+    {
+      "id": "fdd0ca4d-554d-4d11-87d8-d2202145260f",
+      "name": "Red Bull Wings Rhinoceros",
+      "clubColors": "Red Blue Black",
+      "crestUrl": "",
+      "tla": "RED",
+      "venue": "Red Bull Wings Rhinoceros Park"
+    },
+    {
+      "id": "b83b3777-8915-4dd4-8793-170980d11a65",
+      "name": "The Squad Lungfish Left",
+      "clubColors": "Black",
+      "crestUrl": "",
+      "tla": "THE",
+      "venue": "The Squad Lungfish Left Stadium"
+    },
+    {
+      "id": "90a81d4d-3402-4ff4-ad92-991ae75427f7",
+      "name": "Dominatrix Quail Meaningful",
+      "clubColors": "Yelow",
+      "crestUrl": "",
+      "tla": "DOM",
+      "venue": "Dominatrix Quail Meaningful Stadium"
+    },
+    {
+      "id": "faf57b16-2e42-4a52-809c-b597f7b4a841",
+      "name": "The Elite Team",
+      "clubColors": "Gray",
+      "crestUrl": "",
+      "tla": "THE",
+      "venue": "The Elite Team Stadium"
+    },
+    {
+      "id": "ccc22045-b8c2-4038-a406-8514bf3f5013",
+      "name": "Basic Boys Puffin",
+      "clubColors": "Orange Blue",
+      "crestUrl": "",
+      "tla": "BAS",
+      "venue": "Basic Boys Puffin Arena"
+    },
+    {
+      "id": "e8e72743-2888-4d82-98ae-724814b8aaec",
+      "name": "Bulletproof Giraffe",
+      "clubColors": "Black Gray Green",
+      "crestUrl": "",
+      "tla": "BUL",
+      "venue": "Bulletproof Giraffe Park"
+    },
+    {
+      "id": "9ed46372-88c2-44e6-83bc-ccd8b4fc8eb6",
+      "name": "Jets Of Giants",
+      "clubColors": "Gray",
+      "crestUrl": "",
+      "tla": "JET",
+      "venue": "Jets Of Giants Stadium"
+    },
+    {
+      "id": "cd751d9f-06cf-4b24-b35c-0e196416a2f0",
+      "name": "Hustlers",
+      "clubColors": "Green Black White",
+      "crestUrl": "",
+      "tla": "HUS",
+      "venue": "Hustlers Park"
+    },
+    {
+      "id": "0e3cd87a-2622-4593-b029-3cca5f411a9e",
+      "name": "Crew X Chipmunk",
+      "clubColors": "Blue Red Green",
+      "crestUrl": "",
+      "tla": "CRE",
+      "venue": "Crew X Chipmunk Park"
+    },
+    {
+      "id": "7c2fd0ed-b31e-43be-99cd-aac3aedb8fd8",
+      "name": "Jets Of Giants Squid",
+      "clubColors": "Black Green",
+      "crestUrl": "",
+      "tla": "JET",
+      "venue": "Jets Of Giants Squid Arena"
+    },
+    {
+      "id": "18ada674-5616-4828-83b2-9bf36c8d00f8",
+      "name": "No Caveat Cavaliers",
+      "clubColors": "Orange",
+      "crestUrl": "",
+      "tla": "NO ",
+      "venue": "No Caveat Cavaliers Stadium"
+    },
+    {
+      "id": "42088f67-216b-4500-ba09-7021d6925722",
+      "name": "Born To Win Stingray Capitalist",
+      "clubColors": "Gray",
+      "crestUrl": "",
+      "tla": "BOR",
+      "venue": "Born To Win Stingray Capitalist Stadium"
+    },
+    {
+      "id": "f2fb4648-159c-422a-aae6-15a9996dbb62",
+      "name": "Hawkeye Hornets Parrot",
+      "clubColors": "Green White Gray",
+      "crestUrl": "",
+      "tla": "HAW",
+      "venue": "Hawkeye Hornets Parrot Park"
+    },
+    {
+      "id": "d37731f1-8776-4dd4-8e5c-69269810f57b",
+      "name": "Basic Boys Vulture",
+      "clubColors": "White Blue Gray",
+      "crestUrl": "",
+      "tla": "BAS",
+      "venue": "Basic Boys Vulture Park"
+    }
+  ]
+}
